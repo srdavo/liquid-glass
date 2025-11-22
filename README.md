@@ -10,6 +10,7 @@ The component also includes a simple fallback for browsers that don’t support 
 ## Background
 
 This work is based on a React component I found in an article.  
+https://medium.com/ekino-france/liquid-glass-in-css-and-svg-839985fcb88d
 
 What I did was mainly translate that idea into a Vanilla Web Component, and then added some small improvements, configuration options, and a more flexible structure.  
 It’s simply meant to be a small contribution for whoever finds it useful.
